@@ -1,0 +1,19 @@
+main.py
+常用文件夹及文件快捷开启工具
+
+gainUI.lua
+快速把UI控件中的控件生成为lua相关代码
+
+protoTools.py
+快速生成新协议所对应对lua相关代码
+
+DelLocal.bat
+删除本地文件
+
+src(文件夹)
+
+收发消息汇总于 __Message.lua 文件
+点击按钮汇总于 __ClickButton.lua 文件
+打开界面汇总于 __OpenUI.lua 文件
+监听事件汇总于 __DispatchEvent.lua 文件
+Protocol_Auth.lua 修改成pc可运行的调试代码

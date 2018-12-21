@@ -1,0 +1,468 @@
+zhaojie
+1
+Merged revision(s) 90897 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+修改拉代理活动界面打不开的bug
+........
+
+2
+<Revision kind=number 90898>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90897 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xae\xe6\x94\xb9\xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86\xe6\xb4\xbb\xe5\x8a\xa8\xe7\x95\x8c\xe9\x9d\xa2\xe6\x89\x93\xe4\xb8\x8d\xe5\xbc\x80\xe7\x9a\x84bug\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535556273.647684}
+5
+[]
+6
+1535556273.65
+7
+zhaojie
+1
+Merged revision(s) 90887-90893 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+俱乐部牌桌切换页面优化 
+........
+修改房间内分享, 二维码尚未下载下来时, 分享出去的是原始二维码的问题
+........
+
+2
+<Revision kind=number 90894>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90887-90893 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n\xe4\xbf\xae\xe6\x94\xb9\xe6\x88\xbf\xe9\x97\xb4\xe5\x86\x85\xe5\x88\x86\xe4\xba\xab, \xe4\xba\x8c\xe7\xbb\xb4\xe7\xa0\x81\xe5\xb0\x9a\xe6\x9c\xaa\xe4\xb8\x8b\xe8\xbd\xbd\xe4\xb8\x8b\xe6\x9d\xa5\xe6\x97\xb6, \xe5\x88\x86\xe4\xba\xab\xe5\x87\xba\xe5\x8e\xbb\xe7\x9a\x84\xe6\x98\xaf\xe5\x8e\x9f\xe5\xa7\x8b\xe4\xba\x8c\xe7\xbb\xb4\xe7\xa0\x81\xe7\x9a\x84\xe9\x97\xae\xe9\xa2\x98\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535555761.250222}
+5
+[]
+6
+1535555761.25
+7
+jinxueying
+1
+Merged revision(s) 90877-90887 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+修复斗地主分享报错
+........
+俱乐部牌桌切换页面优化 
+........
+
+2
+<Revision kind=number 90889>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90877-90887 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x96\x97\xe5\x9c\xb0\xe4\xb8\xbb\xe5\x88\x86\xe4\xba\xab\xe6\x8a\xa5\xe9\x94\x99\n........\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535554926.568964}
+5
+[]
+6
+1535554926.57
+7
+zhaojie
+1
+修复代理后台打不开的bug
+2
+<Revision kind=number 90880>
+3
+0
+4
+{'svn:log': '\xe4\xbf\xae\xe5\xa4\x8d\xe4\xbb\xa3\xe7\x90\x86\xe5\x90\x8e\xe5\x8f\xb0\xe6\x89\x93\xe4\xb8\x8d\xe5\xbc\x80\xe7\x9a\x84bug', 'svn:author': 'zhaojie', 'svn:date': 1535553154.852168}
+5
+[]
+6
+1535553154.85
+7
+zhaojie
+1
+Merged revision(s) 90877 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+修复斗地主分享报错
+........
+
+2
+<Revision kind=number 90878>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90877 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x96\x97\xe5\x9c\xb0\xe4\xb8\xbb\xe5\x88\x86\xe4\xba\xab\xe6\x8a\xa5\xe9\x94\x99\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535552926.620136}
+5
+[]
+6
+1535552926.62
+7
+jinxueying
+1
+Merged revision(s) 90867 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+更新fnt文件;
+........
+
+2
+<Revision kind=number 90869>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90867 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe6\x9b\xb4\xe6\x96\xb0fnt\xe6\x96\x87\xe4\xbb\xb6;\n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535550210.833661}
+5
+[]
+6
+1535550210.83
+7
+jinxueying
+1
+Merged revision(s) 90855 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+增加字体png文件;
+........
+
+2
+<Revision kind=number 90863>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90855 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe5\xa2\x9e\xe5\x8a\xa0\xe5\xad\x97\xe4\xbd\x93png\xe6\x96\x87\xe4\xbb\xb6;\n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535549093.527734}
+5
+[]
+6
+1535549093.53
+7
+zhangshuo
+1
+跑得快 牌局详情页 分享功能
+2
+<Revision kind=number 90862>
+3
+0
+4
+{'svn:log': '\xe8\xb7\x91\xe5\xbe\x97\xe5\xbf\xab \xe7\x89\x8c\xe5\xb1\x80\xe8\xaf\xa6\xe6\x83\x85\xe9\xa1\xb5 \xe5\x88\x86\xe4\xba\xab\xe5\x8a\x9f\xe8\x83\xbd', 'svn:author': 'zhangshuo', 'svn:date': 1535549080.462635}
+5
+[]
+6
+1535549080.46
+7
+fulei
+1
+修改跑的快 微信邀请按钮 在第一局开始后，别人离线显示问题
+2
+<Revision kind=number 90856>
+3
+0
+4
+{'svn:log': '\xe4\xbf\xae\xe6\x94\xb9\xe8\xb7\x91\xe7\x9a\x84\xe5\xbf\xab \xe5\xbe\xae\xe4\xbf\xa1\xe9\x82\x80\xe8\xaf\xb7\xe6\x8c\x89\xe9\x92\xae \xe5\x9c\xa8\xe7\xac\xac\xe4\xb8\x80\xe5\xb1\x80\xe5\xbc\x80\xe5\xa7\x8b\xe5\x90\x8e\xef\xbc\x8c\xe5\x88\xab\xe4\xba\xba\xe7\xa6\xbb\xe7\xba\xbf\xe6\x98\xbe\xe7\xa4\xba\xe9\x97\xae\xe9\xa2\x98', 'svn:author': 'fulei', 'svn:date': 1535548791.467087}
+5
+[]
+6
+1535548791.47
+7
+zhaojie
+1
+Merged revision(s) 90808-90847 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+加字体
+........
+俱乐部牌桌切换页面优化 
+........
+俱乐部牌桌切换页面优化 
+........
+修复结算界面的问题, 提交登陆协议
+........
+修复斗地主结算界面bug, 修复代理后台打不开的bug
+........
+
+2
+<Revision kind=number 90849>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90808-90847 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe5\x8a\xa0\xe5\xad\x97\xe4\xbd\x93\n........\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n\xe4\xbf\xae\xe5\xa4\x8d\xe7\xbb\x93\xe7\xae\x97\xe7\x95\x8c\xe9\x9d\xa2\xe7\x9a\x84\xe9\x97\xae\xe9\xa2\x98, \xe6\x8f\x90\xe4\xba\xa4\xe7\x99\xbb\xe9\x99\x86\xe5\x8d\x8f\xe8\xae\xae\n........\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x96\x97\xe5\x9c\xb0\xe4\xb8\xbb\xe7\xbb\x93\xe7\xae\x97\xe7\x95\x8c\xe9\x9d\xa2bug, \xe4\xbf\xae\xe5\xa4\x8d\xe4\xbb\xa3\xe7\x90\x86\xe5\x90\x8e\xe5\x8f\xb0\xe6\x89\x93\xe4\xb8\x8d\xe5\xbc\x80\xe7\x9a\x84bug\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535548210.9137}
+5
+[]
+6
+1535548210.91
+7
+jinxueying
+1
+Merged revision(s) 90829 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+俱乐部牌桌切换页面优化 
+........
+
+2
+<Revision kind=number 90837>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90829 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535547304.216727}
+5
+[]
+6
+1535547304.22
+7
+jinxueying
+1
+Merged revision(s) 90820 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+俱乐部牌桌切换页面优化 
+........
+
+2
+<Revision kind=number 90822>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90820 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xb1\xe4\xb9\x90\xe9\x83\xa8\xe7\x89\x8c\xe6\xa1\x8c\xe5\x88\x87\xe6\x8d\xa2\xe9\xa1\xb5\xe9\x9d\xa2\xe4\xbc\x98\xe5\x8c\x96 \n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535546538.813219}
+5
+[]
+6
+1535546538.81
+7
+jinxueying
+1
+Merged revision(s) 90771-90808 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+代理红包
+........
+修复战绩分享bug, 修复拉代理bug, 修复送钻活动bug , 拉代理活动新需求完成
+........
+加字体
+........
+
+2
+<Revision kind=number 90817>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90771-90808 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbb\xa3\xe7\x90\x86\xe7\xba\xa2\xe5\x8c\x85\n........\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x88\x98\xe7\xbb\xa9\xe5\x88\x86\xe4\xba\xabbug, \xe4\xbf\xae\xe5\xa4\x8d\xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86bug, \xe4\xbf\xae\xe5\xa4\x8d\xe9\x80\x81\xe9\x92\xbb\xe6\xb4\xbb\xe5\x8a\xa8bug , \xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86\xe6\xb4\xbb\xe5\x8a\xa8\xe6\x96\xb0\xe9\x9c\x80\xe6\xb1\x82\xe5\xae\x8c\xe6\x88\x90\n........\n\xe5\x8a\xa0\xe5\xad\x97\xe4\xbd\x93\n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535545971.922137}
+5
+[]
+6
+1535545971.92
+7
+zhaojie
+1
+Merged revision(s) 90759-90806 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+修复拉代理, 助力送钻以及战绩分享页面的一系列bug
+........
+代理红包
+........
+修复战绩分享bug, 修复拉代理bug, 修复送钻活动bug , 拉代理活动新需求完成
+........
+
+2
+<Revision kind=number 90809>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90759-90806 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86, \xe5\x8a\xa9\xe5\x8a\x9b\xe9\x80\x81\xe9\x92\xbb\xe4\xbb\xa5\xe5\x8f\x8a\xe6\x88\x98\xe7\xbb\xa9\xe5\x88\x86\xe4\xba\xab\xe9\xa1\xb5\xe9\x9d\xa2\xe7\x9a\x84\xe4\xb8\x80\xe7\xb3\xbb\xe5\x88\x97bug\n........\n\xe4\xbb\xa3\xe7\x90\x86\xe7\xba\xa2\xe5\x8c\x85\n........\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x88\x98\xe7\xbb\xa9\xe5\x88\x86\xe4\xba\xabbug, \xe4\xbf\xae\xe5\xa4\x8d\xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86bug, \xe4\xbf\xae\xe5\xa4\x8d\xe9\x80\x81\xe9\x92\xbb\xe6\xb4\xbb\xe5\x8a\xa8bug , \xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86\xe6\xb4\xbb\xe5\x8a\xa8\xe6\x96\xb0\xe9\x9c\x80\xe6\xb1\x82\xe5\xae\x8c\xe6\x88\x90\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535545486.935709}
+5
+[]
+6
+1535545486.94
+7
+zhangshuo
+1
+1.取消release 2.跑得快 总结算控件宽度修改
+2
+<Revision kind=number 90804>
+3
+0
+4
+{'svn:log': '1.\xe5\x8f\x96\xe6\xb6\x88release 2.\xe8\xb7\x91\xe5\xbe\x97\xe5\xbf\xab \xe6\x80\xbb\xe7\xbb\x93\xe7\xae\x97\xe6\x8e\xa7\xe4\xbb\xb6\xe5\xae\xbd\xe5\xba\xa6\xe4\xbf\xae\xe6\x94\xb9', 'svn:author': 'zhangshuo', 'svn:date': 1535544820.52497}
+5
+[]
+6
+1535544820.52
+7
+zhangshuo
+1
+quanguobao_cangzhou ui auto commit
+2
+<Revision kind=number 90803>
+3
+0
+4
+{'svn:log': 'quanguobao_cangzhou ui auto commit', 'svn:author': 'zhangshuo', 'svn:date': 1535544624.556521}
+5
+[]
+6
+1535544624.56
+7
+liuxinxin
+1
+quanguobao_cangzhou ui auto commit
+2
+<Revision kind=number 90799>
+3
+0
+4
+{'svn:log': 'quanguobao_cangzhou ui auto commit', 'svn:author': 'liuxinxin', 'svn:date': 1535543498.078441}
+5
+[]
+6
+1535543498.08
+7
+zhaotianwa
+1
+UIChuPaiTips这个ui已经不用了，相关的destroy和show删除了
+2
+<Revision kind=number 90788>
+3
+0
+4
+{'svn:log': 'UIChuPaiTips\xe8\xbf\x99\xe4\xb8\xaaui\xe5\xb7\xb2\xe7\xbb\x8f\xe4\xb8\x8d\xe7\x94\xa8\xe4\xba\x86\xef\xbc\x8c\xe7\x9b\xb8\xe5\x85\xb3\xe7\x9a\x84destroy\xe5\x92\x8cshow\xe5\x88\xa0\xe9\x99\xa4\xe4\xba\x86', 'svn:author': 'zhaotianwa', 'svn:date': 1535541741.339876}
+5
+[]
+6
+1535541741.34
+7
+fulei
+1
+quanguobao_cangzhou ui auto commit
+2
+<Revision kind=number 90786>
+3
+0
+4
+{'svn:log': 'quanguobao_cangzhou ui auto commit', 'svn:author': 'fulei', 'svn:date': 1535540435.782055}
+5
+[]
+6
+1535540435.78
+7
+fulei
+1
+修改出牌Tips  bug
+2
+<Revision kind=number 90784>
+3
+0
+4
+{'svn:log': '\xe4\xbf\xae\xe6\x94\xb9\xe5\x87\xba\xe7\x89\x8cTips  bug', 'svn:author': 'fulei', 'svn:date': 1535540233.307682}
+5
+[]
+6
+1535540233.31
+7
+jinxueying
+1
+Merged revision(s) 90759 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+修复拉代理, 助力送钻以及战绩分享页面的一系列bug
+........
+
+2
+<Revision kind=number 90766>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90759 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x8b\x89\xe4\xbb\xa3\xe7\x90\x86, \xe5\x8a\xa9\xe5\x8a\x9b\xe9\x80\x81\xe9\x92\xbb\xe4\xbb\xa5\xe5\x8f\x8a\xe6\x88\x98\xe7\xbb\xa9\xe5\x88\x86\xe4\xba\xab\xe9\xa1\xb5\xe9\x9d\xa2\xe7\x9a\x84\xe4\xb8\x80\xe7\xb3\xbb\xe5\x88\x97bug\n........\n', 'svn:author': 'jinxueying', 'svn:date': 1535535802.06371}
+5
+[]
+6
+1535535802.06
+7
+liuxinxin
+1
+quanguobao_cangzhou ui auto commit
+2
+<Revision kind=number 90758>
+3
+0
+4
+{'svn:log': 'quanguobao_cangzhou ui auto commit', 'svn:author': 'liuxinxin', 'svn:date': 1535534791.923229}
+5
+[]
+6
+1535534791.92
+7
+liuxinxin
+1
+沧州震动修改（倒计时3秒震动一次，不播放音效）
+2
+<Revision kind=number 90745>
+3
+0
+4
+{'svn:log': '\xe6\xb2\xa7\xe5\xb7\x9e\xe9\x9c\x87\xe5\x8a\xa8\xe4\xbf\xae\xe6\x94\xb9\xef\xbc\x88\xe5\x80\x92\xe8\xae\xa1\xe6\x97\xb63\xe7\xa7\x92\xe9\x9c\x87\xe5\x8a\xa8\xe4\xb8\x80\xe6\xac\xa1\xef\xbc\x8c\xe4\xb8\x8d\xe6\x92\xad\xe6\x94\xbe\xe9\x9f\xb3\xe6\x95\x88\xef\xbc\x89', 'svn:author': 'liuxinxin', 'svn:date': 1535532059.314351}
+5
+[]
+6
+1535532059.31
+7
+liuxinxin
+1
+quanguobao_cangzhou ui auto commit
+2
+<Revision kind=number 90744>
+3
+0
+4
+{'svn:log': 'quanguobao_cangzhou ui auto commit', 'svn:author': 'liuxinxin', 'svn:date': 1535531999.098077}
+5
+[]
+6
+1535531999.1
+7
+zhaojie
+1
+Merged revision(s) 90692-90732 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:
+字体
+........
+修复房间内分享bug
+........
+
+2
+<Revision kind=number 90734>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90692-90732 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831:\n\xe5\xad\x97\xe4\xbd\x93\n........\n\xe4\xbf\xae\xe5\xa4\x8d\xe6\x88\xbf\xe9\x97\xb4\xe5\x86\x85\xe5\x88\x86\xe4\xba\xabbug\n........\n', 'svn:author': 'zhaojie', 'svn:date': 1535531089.190231}
+5
+[]
+6
+1535531089.19
+7
+zhaozheng
+1
+1.审核-内存泄漏的BUG
+2
+<Revision kind=number 90721>
+3
+0
+4
+{'svn:log': '1.\xe5\xae\xa1\xe6\xa0\xb8-\xe5\x86\x85\xe5\xad\x98\xe6\xb3\x84\xe6\xbc\x8f\xe7\x9a\x84BUG', 'svn:author': 'zhaozheng', 'svn:date': 1535529959.593792}
+5
+[]
+6
+1535529959.59
+7
+zhaotianwa
+1
+修改ccs引用，把误删张硕的六处复原，其它没有任何修改
+2
+<Revision kind=number 90713>
+3
+0
+4
+{'svn:log': '\xe4\xbf\xae\xe6\x94\xb9ccs\xe5\xbc\x95\xe7\x94\xa8\xef\xbc\x8c\xe6\x8a\x8a\xe8\xaf\xaf\xe5\x88\xa0\xe5\xbc\xa0\xe7\xa1\x95\xe7\x9a\x84\xe5\x85\xad\xe5\xa4\x84\xe5\xa4\x8d\xe5\x8e\x9f\xef\xbc\x8c\xe5\x85\xb6\xe5\xae\x83\xe6\xb2\xa1\xe6\x9c\x89\xe4\xbb\xbb\xe4\xbd\x95\xe4\xbf\xae\xe6\x94\xb9', 'svn:author': 'zhaotianwa', 'svn:date': 1535528971.83416}
+5
+[]
+6
+1535528971.83
+7
+jinxueying
+1
+Merged revision(s) 90692-90698 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831_merge2:
+
+2
+<Revision kind=number 90710>
+3
+0
+4
+{'svn:log': 'Merged revision(s) 90692-90698 from mahjong/src_quanguo/branches/branch_trunk_function_20180827_0831_merge2:\n', 'svn:author': 'jinxueying', 'svn:date': 1535528771.58268}
+5
+[]
+6
+1535528771.58
+7
+zhangshuo
+1
+代码优化
+2
+<Revision kind=number 90686>
+3
+0
+4
+{'svn:log': '\xe4\xbb\xa3\xe7\xa0\x81\xe4\xbc\x98\xe5\x8c\x96', 'svn:author': 'zhangshuo', 'svn:date': 1535526907.794698}
+5
+[]
+6
+1535526907.79
+7
